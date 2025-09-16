@@ -35,6 +35,3 @@ Soluções de problemas do [LeetCode](https://leetcode.com/) em **Python**, **Ja
 [João Cerri](https://github.com/joaocerri)
 
 ---
-
-## 📜 Licença
-Este projeto está sob a licença **MIT**.
