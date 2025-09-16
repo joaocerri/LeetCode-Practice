@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao\\Documents\\GitHub\\LeetCode-Practice\\TwoSum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B67C5566-68A1-4D38-B229-73B1590D5137}|TwoSum\\TwoSum.csproj|c:\\users\\joao\\documents\\github\\leetcode-practice\\twosum\\twosum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67C5566-68A1-4D38-B229-73B1590D5137}|TwoSum\\TwoSum.csproj|solutionrelative:twosum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\LeetCode-Practice\\TwoSum\\TwoSum\\Program.cs",
+              "RelativeDocumentMoniker": "TwoSum\\Program.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\LeetCode-Practice\\TwoSum\\TwoSum\\Program.cs*",
+              "RelativeToolTip": "TwoSum\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:42:53.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

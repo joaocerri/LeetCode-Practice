@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao\\Documents\\GitHub\\LeetCode-Practice\\ValidAnagram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30E17BB7-2CDC-4B27-AA17-DFA42E37EA7E}|ValidAnagram\\ValidAnagram.csproj|c:\\users\\joao\\documents\\github\\leetcode-practice\\validanagram\\validanagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E17BB7-2CDC-4B27-AA17-DFA42E37EA7E}|ValidAnagram\\ValidAnagram.csproj|solutionrelative:validanagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao\\Documents\\GitHub\\LeetCode-Practice\\ValidAnagram\\ValidAnagram\\Program.cs",
+              "RelativeDocumentMoniker": "ValidAnagram\\Program.cs",
+              "ToolTip": "C:\\Users\\joao\\Documents\\GitHub\\LeetCode-Practice\\ValidAnagram\\ValidAnagram\\Program.cs",
+              "RelativeToolTip": "ValidAnagram\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:49:07.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

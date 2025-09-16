@@ -1,0 +1,14 @@
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Best-Time-to-Buy-and-Sell-Stock\Best-Time-to-Buy-and-Sell-Stock\bin\Debug\net8.0\Best-Time-to-Buy-and-Sell-Stock.exe
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Best-Time-to-Buy-and-Sell-Stock\Best-Time-to-Buy-and-Sell-Stock\bin\Debug\net8.0\Best-Time-to-Buy-and-Sell-Stock.deps.json
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Best-Time-to-Buy-and-Sell-Stock\Best-Time-to-Buy-and-Sell-Stock\bin\Debug\net8.0\Best-Time-to-Buy-and-Sell-Stock.runtimeconfig.json
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Best-Time-to-Buy-and-Sell-Stock\Best-Time-to-Buy-and-Sell-Stock\bin\Debug\net8.0\Best-Time-to-Buy-and-Sell-Stock.dll
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Best-Time-to-Buy-and-Sell-Stock\Best-Time-to-Buy-and-Sell-Stock\bin\Debug\net8.0\Best-Time-to-Buy-and-Sell-Stock.pdb
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Best-Time-to-Buy-and-Sell-Stock\Best-Time-to-Buy-and-Sell-Stock\obj\Debug\net8.0\Best-Time-to-Buy-and-Sell-Stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Best-Time-to-Buy-and-Sell-Stock\Best-Time-to-Buy-and-Sell-Stock\obj\Debug\net8.0\Best-Time-to-Buy-and-Sell-Stock.AssemblyInfoInputs.cache
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Best-Time-to-Buy-and-Sell-Stock\Best-Time-to-Buy-and-Sell-Stock\obj\Debug\net8.0\Best-Time-to-Buy-and-Sell-Stock.AssemblyInfo.cs
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Best-Time-to-Buy-and-Sell-Stock\Best-Time-to-Buy-and-Sell-Stock\obj\Debug\net8.0\Best-Time-to-Buy-and-Sell-Stock.csproj.CoreCompileInputs.cache
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Best-Time-to-Buy-and-Sell-Stock\Best-Time-to-Buy-and-Sell-Stock\obj\Debug\net8.0\Best-Time-to-Buy-and-Sell-Stock.dll
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Best-Time-to-Buy-and-Sell-Stock\Best-Time-to-Buy-and-Sell-Stock\obj\Debug\net8.0\refint\Best-Time-to-Buy-and-Sell-Stock.dll
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Best-Time-to-Buy-and-Sell-Stock\Best-Time-to-Buy-and-Sell-Stock\obj\Debug\net8.0\Best-Time-to-Buy-and-Sell-Stock.pdb
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Best-Time-to-Buy-and-Sell-Stock\Best-Time-to-Buy-and-Sell-Stock\obj\Debug\net8.0\Best-Time-to-Buy-and-Sell-Stock.genruntimeconfig.cache
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Best-Time-to-Buy-and-Sell-Stock\Best-Time-to-Buy-and-Sell-Stock\obj\Debug\net8.0\ref\Best-Time-to-Buy-and-Sell-Stock.dll

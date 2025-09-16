@@ -1,0 +1,14 @@
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Balanced-Binary-Tree\Balanced-Binary-Tree\bin\Debug\net8.0\Balanced-Binary-Tree.exe
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Balanced-Binary-Tree\Balanced-Binary-Tree\bin\Debug\net8.0\Balanced-Binary-Tree.deps.json
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Balanced-Binary-Tree\Balanced-Binary-Tree\bin\Debug\net8.0\Balanced-Binary-Tree.runtimeconfig.json
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Balanced-Binary-Tree\Balanced-Binary-Tree\bin\Debug\net8.0\Balanced-Binary-Tree.dll
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Balanced-Binary-Tree\Balanced-Binary-Tree\bin\Debug\net8.0\Balanced-Binary-Tree.pdb
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Balanced-Binary-Tree\Balanced-Binary-Tree\obj\Debug\net8.0\Balanced-Binary-Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Balanced-Binary-Tree\Balanced-Binary-Tree\obj\Debug\net8.0\Balanced-Binary-Tree.AssemblyInfoInputs.cache
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Balanced-Binary-Tree\Balanced-Binary-Tree\obj\Debug\net8.0\Balanced-Binary-Tree.AssemblyInfo.cs
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Balanced-Binary-Tree\Balanced-Binary-Tree\obj\Debug\net8.0\Balanced-Binary-Tree.csproj.CoreCompileInputs.cache
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Balanced-Binary-Tree\Balanced-Binary-Tree\obj\Debug\net8.0\Balanced-Binary-Tree.dll
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Balanced-Binary-Tree\Balanced-Binary-Tree\obj\Debug\net8.0\refint\Balanced-Binary-Tree.dll
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Balanced-Binary-Tree\Balanced-Binary-Tree\obj\Debug\net8.0\Balanced-Binary-Tree.pdb
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Balanced-Binary-Tree\Balanced-Binary-Tree\obj\Debug\net8.0\Balanced-Binary-Tree.genruntimeconfig.cache
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Balanced-Binary-Tree\Balanced-Binary-Tree\obj\Debug\net8.0\ref\Balanced-Binary-Tree.dll

@@ -1,0 +1,14 @@
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\ValidAnagram\ValidAnagram\bin\Debug\net8.0\ValidAnagram.exe
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\ValidAnagram\ValidAnagram\bin\Debug\net8.0\ValidAnagram.deps.json
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\ValidAnagram\ValidAnagram\bin\Debug\net8.0\ValidAnagram.runtimeconfig.json
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\ValidAnagram\ValidAnagram\bin\Debug\net8.0\ValidAnagram.dll
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\ValidAnagram\ValidAnagram\bin\Debug\net8.0\ValidAnagram.pdb
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\ValidAnagram\ValidAnagram\obj\Debug\net8.0\ValidAnagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\ValidAnagram\ValidAnagram\obj\Debug\net8.0\ValidAnagram.AssemblyInfoInputs.cache
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\ValidAnagram\ValidAnagram\obj\Debug\net8.0\ValidAnagram.AssemblyInfo.cs
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\ValidAnagram\ValidAnagram\obj\Debug\net8.0\ValidAnagram.csproj.CoreCompileInputs.cache
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\ValidAnagram\ValidAnagram\obj\Debug\net8.0\ValidAnagram.dll
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\ValidAnagram\ValidAnagram\obj\Debug\net8.0\refint\ValidAnagram.dll
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\ValidAnagram\ValidAnagram\obj\Debug\net8.0\ValidAnagram.pdb
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\ValidAnagram\ValidAnagram\obj\Debug\net8.0\ValidAnagram.genruntimeconfig.cache
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\ValidAnagram\ValidAnagram\obj\Debug\net8.0\ref\ValidAnagram.dll
