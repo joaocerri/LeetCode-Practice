@@ -1,6 +1,6 @@
 # 📝 LeetCode Solutions
 
-Soluções de problemas do [LeetCode](https://leetcode.com/) em **Python**, **Java** e **C++**, organizadas por dificuldade.
+Soluções de problemas do [LeetCode](https://leetcode.com/joaocerri) em **C#**, organizadas por dificuldade.
 
 ---
 
@@ -18,16 +18,18 @@ Soluções de problemas do [LeetCode](https://leetcode.com/) em **Python**, **Ja
 
 | Problema | Link | Dificuldade | Linguagem |
 |----------|------|-------------|-----------|
-| Two Sum | [🔗](https://leetcode.com/problems/two-sum/) | Fácil | Python / Java / C++ |
-| Valid Parentheses | [🔗](https://leetcode.com/problems/valid-parentheses/) | Fácil | Python |
-| Merge Two Sorted Lists | [🔗](https://leetcode.com/problems/merge-two-sorted-lists/) | Fácil | Python / C++ |
-| Best Time to Buy and Sell Stock | [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Fácil | Python |
-| Add Two Numbers | [🔗](https://leetcode.com/problems/add-two-numbers/) | Médio | Python / Java |
-| Longest Substring Without Repeating Characters | [🔗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Médio | Python |
-| Group Anagrams | [🔗](https://leetcode.com/problems/group-anagrams/) | Médio | Python |
-| Merge Intervals | [🔗](https://leetcode.com/problems/merge-intervals/) | Médio | Python / C++ |
-| Word Break | [🔗](https://leetcode.com/problems/word-break/) | Médio | Python |
-| Median of Two Sorted Arrays | [🔗](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Difícil | Python / C++ |
+| Two Sum | [🔗](https://leetcode.com/problems/two-sum/) | Fácil | C# |
+| Valid Parentheses | [🔗](https://leetcode.com/problems/valid-parentheses/) | Fácil | C# |
+| Best Time to Buy and Sell Stock | [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Fácil | C# |
+| Binary Search | [🔗](https://leetcode.com/problems/binary-search/) | Fácil | C# |
+| Valid Anagram | [🔗](https://leetcode.com/problems/valid-anagram/) | Fácil | C# |
+| Contains Duplicate | [🔗](https://leetcode.com/problems/contains-duplicate/) | Fácil | C# |
+| Balanced Binary Tree | [🔗](https://leetcode.com/problems/balanced-binary-tree/submissions/) | Fácil | C# |
+| Valid Palindrome | [🔗](https://leetcode.com/problems/balanced-binary-tree/) | Fácil | C# |
+
+
+> ⚡ Esta tabela será expandida conforme novos problemas forem adicionados.  
+
 
 ---
 
