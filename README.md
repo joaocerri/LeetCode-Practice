@@ -25,7 +25,7 @@ Soluções de problemas do [LeetCode](https://leetcode.com/joaocerri) em **C#**,
 | Valid Anagram | [🔗](https://leetcode.com/problems/valid-anagram/) | Fácil | C# |
 | Contains Duplicate | [🔗](https://leetcode.com/problems/contains-duplicate/) | Fácil | C# |
 | Balanced Binary Tree | [🔗](https://leetcode.com/problems/balanced-binary-tree/submissions/) | Fácil | C# |
-| Valid Palindrome | [🔗](https://leetcode.com/problems/balanced-binary-tree/) | Fácil | C# |
+| Valid Palindrome | [🔗]([https://leetcode.com/problems/balanced-binary-tree/](https://leetcode.com/problems/valid-palindrome/)) | Fácil | C# |
 
 
 > ⚡ Esta tabela será expandida conforme novos problemas forem adicionados.  
