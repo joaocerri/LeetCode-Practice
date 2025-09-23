@@ -1,0 +1,15 @@
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Single-Number\Single-Number\bin\Debug\net8.0\Single-Number.exe
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Single-Number\Single-Number\bin\Debug\net8.0\Single-Number.deps.json
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Single-Number\Single-Number\bin\Debug\net8.0\Single-Number.runtimeconfig.json
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Single-Number\Single-Number\bin\Debug\net8.0\Single-Number.dll
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Single-Number\Single-Number\bin\Debug\net8.0\Single-Number.pdb
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Single-Number\Single-Number\obj\Debug\net8.0\Single-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Single-Number\Single-Number\obj\Debug\net8.0\Single-Number.AssemblyInfoInputs.cache
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Single-Number\Single-Number\obj\Debug\net8.0\Single-Number.AssemblyInfo.cs
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Single-Number\Single-Number\obj\Debug\net8.0\Single-Number.csproj.CoreCompileInputs.cache
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Single-Number\Single-Number\obj\Debug\net8.0\Single-Number.sourcelink.json
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Single-Number\Single-Number\obj\Debug\net8.0\Single-Number.dll
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Single-Number\Single-Number\obj\Debug\net8.0\refint\Single-Number.dll
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Single-Number\Single-Number\obj\Debug\net8.0\Single-Number.pdb
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Single-Number\Single-Number\obj\Debug\net8.0\Single-Number.genruntimeconfig.cache
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Single-Number\Single-Number\obj\Debug\net8.0\ref\Single-Number.dll
