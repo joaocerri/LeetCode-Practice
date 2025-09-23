@@ -26,7 +26,8 @@ Soluções de problemas do [LeetCode](https://leetcode.com/joaocerri) em **C#**,
 | Contains Duplicate | [🔗](https://leetcode.com/problems/contains-duplicate/) | Fácil | C# |
 | Balanced Binary Tree | [🔗](https://leetcode.com/problems/balanced-binary-tree/submissions/) | Fácil | C# |
 | Valid Palindrome | [🔗](https://leetcode.com/problems/valid-palindrome/) | Fácil | C# |
-| Valid Palindrome | [🔗](https://leetcode.com/problems/missing-number/) | Fácil | C# |
+| Missing Number | [🔗](https://leetcode.com/problems/missing-number/) | Fácil | C# |
+| Single Number | [🔗](https://leetcode.com/problems/single-number/) | Fácil | C# |
 
 
 
