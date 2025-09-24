@@ -28,8 +28,7 @@ Soluções de problemas do [LeetCode](https://leetcode.com/joaocerri) em **C#**,
 | Valid Palindrome | [🔗](https://leetcode.com/problems/valid-palindrome/) | Fácil | C# |
 | Missing Number | [🔗](https://leetcode.com/problems/missing-number/) | Fácil | C# |
 | Single Number | [🔗](https://leetcode.com/problems/single-number/) | Fácil | C# |
-
-
+| Container With Most Water | [🔗](https://leetcode.com/problems/container-with-most-water/) | Medium | C# |
 
 > ⚡ Esta tabela será expandida conforme novos problemas forem adicionados.  
 
