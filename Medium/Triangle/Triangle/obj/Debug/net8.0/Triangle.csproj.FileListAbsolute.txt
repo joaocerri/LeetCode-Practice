@@ -1,0 +1,15 @@
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Medium\Triangle\Triangle\bin\Debug\net8.0\Triangle.exe
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Medium\Triangle\Triangle\bin\Debug\net8.0\Triangle.deps.json
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Medium\Triangle\Triangle\bin\Debug\net8.0\Triangle.runtimeconfig.json
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Medium\Triangle\Triangle\bin\Debug\net8.0\Triangle.dll
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Medium\Triangle\Triangle\bin\Debug\net8.0\Triangle.pdb
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Medium\Triangle\Triangle\obj\Debug\net8.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Medium\Triangle\Triangle\obj\Debug\net8.0\Triangle.AssemblyInfoInputs.cache
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Medium\Triangle\Triangle\obj\Debug\net8.0\Triangle.AssemblyInfo.cs
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Medium\Triangle\Triangle\obj\Debug\net8.0\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Medium\Triangle\Triangle\obj\Debug\net8.0\Triangle.sourcelink.json
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Medium\Triangle\Triangle\obj\Debug\net8.0\Triangle.dll
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Medium\Triangle\Triangle\obj\Debug\net8.0\refint\Triangle.dll
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Medium\Triangle\Triangle\obj\Debug\net8.0\Triangle.pdb
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Medium\Triangle\Triangle\obj\Debug\net8.0\Triangle.genruntimeconfig.cache
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Medium\Triangle\Triangle\obj\Debug\net8.0\ref\Triangle.dll
