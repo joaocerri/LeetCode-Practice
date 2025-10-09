@@ -1,0 +1,15 @@
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Palindrome Number\bin\Debug\net8.0\Palindrome Number.exe
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Palindrome Number\bin\Debug\net8.0\Palindrome Number.deps.json
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Palindrome Number\bin\Debug\net8.0\Palindrome Number.runtimeconfig.json
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Palindrome Number\bin\Debug\net8.0\Palindrome Number.dll
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Palindrome Number\bin\Debug\net8.0\Palindrome Number.pdb
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Palindrome Number\obj\Debug\net8.0\Palindrome Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Palindrome Number\obj\Debug\net8.0\Palindrome Number.AssemblyInfoInputs.cache
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Palindrome Number\obj\Debug\net8.0\Palindrome Number.AssemblyInfo.cs
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Palindrome Number\obj\Debug\net8.0\Palindrome Number.csproj.CoreCompileInputs.cache
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Palindrome Number\obj\Debug\net8.0\Palindrome Number.sourcelink.json
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Palindrome Number\obj\Debug\net8.0\Palindrome Number.dll
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Palindrome Number\obj\Debug\net8.0\refint\Palindrome Number.dll
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Palindrome Number\obj\Debug\net8.0\Palindrome Number.pdb
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Palindrome Number\obj\Debug\net8.0\Palindrome Number.genruntimeconfig.cache
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Palindrome Number\obj\Debug\net8.0\ref\Palindrome Number.dll
