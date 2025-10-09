@@ -30,6 +30,9 @@ Soluções de problemas do [LeetCode](https://leetcode.com/joaocerri) em **C#**,
 | Single Number | [🔗](https://leetcode.com/problems/single-number/) | Fácil | C# |
 | Container With Most Water | [🔗](https://leetcode.com/problems/container-with-most-water/) | Medium | C# |
 | Sort Colors | [🔗](https://leetcode.com/problems/sort-colors) | Medium | C# |
+| Palindrome Number | [🔗](https://leetcode.com/problems/palindrome-number/) | Easy | C# |
+| Roman to Integer | [🔗](https://leetcode.com/problems/roman-to-integer/) | Easy | C# |
+
 
 > ⚡ Esta tabela será expandida conforme novos problemas forem adicionados.  
 
