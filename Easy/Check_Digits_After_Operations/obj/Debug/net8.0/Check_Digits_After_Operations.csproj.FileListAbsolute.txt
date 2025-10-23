@@ -1,0 +1,15 @@
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Check_Digits_After_Operations\bin\Debug\net8.0\Check_Digits_After_Operations.exe
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Check_Digits_After_Operations\bin\Debug\net8.0\Check_Digits_After_Operations.deps.json
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Check_Digits_After_Operations\bin\Debug\net8.0\Check_Digits_After_Operations.runtimeconfig.json
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Check_Digits_After_Operations\bin\Debug\net8.0\Check_Digits_After_Operations.dll
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Check_Digits_After_Operations\bin\Debug\net8.0\Check_Digits_After_Operations.pdb
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Check_Digits_After_Operations\obj\Debug\net8.0\Check_Digits_After_Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Check_Digits_After_Operations\obj\Debug\net8.0\Check_Digits_After_Operations.AssemblyInfoInputs.cache
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Check_Digits_After_Operations\obj\Debug\net8.0\Check_Digits_After_Operations.AssemblyInfo.cs
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Check_Digits_After_Operations\obj\Debug\net8.0\Check_Digits_After_Operations.csproj.CoreCompileInputs.cache
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Check_Digits_After_Operations\obj\Debug\net8.0\Check_Digits_After_Operations.sourcelink.json
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Check_Digits_After_Operations\obj\Debug\net8.0\Check_Digits_After_Operations.dll
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Check_Digits_After_Operations\obj\Debug\net8.0\refint\Check_Digits_After_Operations.dll
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Check_Digits_After_Operations\obj\Debug\net8.0\Check_Digits_After_Operations.pdb
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Check_Digits_After_Operations\obj\Debug\net8.0\Check_Digits_After_Operations.genruntimeconfig.cache
+C:\Users\joao\Documents\GitHub\LeetCode-Practice\Easy\Check_Digits_After_Operations\obj\Debug\net8.0\ref\Check_Digits_After_Operations.dll
