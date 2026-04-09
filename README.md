@@ -36,7 +36,6 @@ Soluções de problemas do [LeetCode](https://leetcode.com/joaocerri) em **C#**,
 | Remove Duplicates from Sorted Array | [🔗](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | C# |
 | Robot Return to Origin | [🔗](https://leetcode.com/problems/robot-return-to-origin/) | Easy | C# |
 | Median of Two Sorted Arrays | [🔗](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Easy | C# |
-| Integer to Roman | [🔗](https://leetcode.com/problems/integer-to-roman/) | Easy | C# |
 
 
 
