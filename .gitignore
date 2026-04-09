@@ -1,0 +1,18 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Pastas de ferramentas e IDEs
+.vs/
+.vscode/
+.idea/
+
+# Arquivos de log e cache
+*.log
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Pastas do NuGet (gerenciador de pacotes)
+packages/
